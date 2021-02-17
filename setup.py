@@ -80,8 +80,8 @@ development_requires = [
 ]
 
 setup(
-    author="MIT Data To AI Lab",
-    author_email='dailabmit@gmail.com',
+    author="Hyeonjongha skku",
+    author_email='wnajrqkq94@gmail.com',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
@@ -111,13 +111,13 @@ setup(
     license="MIT license",
     long_description=readme + '\n\n' + history,
     long_description_content_type='text/markdown',
-    name='orion-ml',
+    name='orion-ml-hj',
     packages=find_packages(include=['orion', 'orion.*']),
     python_requires='>=3.6,<3.8',
     setup_requires=setup_requires,
     test_suite='tests',
     tests_require=tests_require,
-    url='https://github.com/D3-AI/Orion',
+    url='https://github.com/Henjoyy/Orion',
     version='0.1.6.dev0',
     zip_safe=False,
 )
